@@ -1,0 +1,44 @@
+nav {
+    clear: both;
+}
+nav a {
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: red;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+#Container {
+    margin: 1em 1em 1em 1em;
+}
+
+#Logo {
+    clear: both;
+    margin-left: 1.5em;
+}
+
+#Logo h1 {
+    font-weight: bold;
+}
+
+#Logo img {
+    float: left;
+    max-width: 10%;
+    height: auto;
+}
+
+
+
+footer {
+    color: yellow;
+    text-align: center;
+}

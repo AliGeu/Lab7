@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/WMDDCoreDesign/app/views/index.scala.html:18:46: value contact is not a member of controllers.ReverseHomeController[0m
+[0m[[0m[31merror[0m] [0m[0m  <p>Please, <a href="@routes.HomeController.contact()">contact us</a> to discuss your requirements</p> [0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/WMDDCoreDesign/app/views/main.scala.html:22:96: value about is not a member of controllers.ReverseHomeController[0m
+[0m[[0m[31merror[0m] [0m[0m                    <li @if(pageID == "About"){class="active"}><a href="@routes.HomeController.about()">About Us</a></li>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/WMDDCoreDesign/app/views/main.scala.html:23:99: value services is not a member of controllers.ReverseHomeController[0m
+[0m[[0m[31merror[0m] [0m[0m                    <li @if(pageID == "Services"){class="active"}><a href="@routes.HomeController.services()">Services</a></li>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/WMDDCoreDesign/app/views/main.scala.html:24:98: value clients is not a member of controllers.ReverseHomeController[0m
+[0m[[0m[31merror[0m] [0m[0m                    <li @if(pageID == "Clients"){class="active"}><a href="@routes.HomeController.clients()">Clients</a></li>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/WMDDCoreDesign/app/views/main.scala.html:25:98: value contact is not a member of controllers.ReverseHomeController[0m
+[0m[[0m[31merror[0m] [0m[0m                    <li @if(pageID == "Contact"){class="active"}><a href="@routes.HomeController.contact()">Contact Us</a></li>[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
